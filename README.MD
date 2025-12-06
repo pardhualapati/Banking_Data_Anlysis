@@ -32,7 +32,7 @@ This dashboard is ideal for banking analysts, advisors, and managers who need a 
 - Gender Distribution  
 
 📷 **Screenshot:**  
-![Loan Analysis](SCREENSHOT_LINK_1)
+![Loan Analysis](https://drive.google.com/uc?id=1CARXgXqriZjqLrmMkuZ6Ez2fg89cZagq)
 
 ---
 
@@ -51,7 +51,7 @@ This dashboard is ideal for banking analysts, advisors, and managers who need a 
 - Customer Gender Ratio  
 
 📷 **Screenshot:**  
-![Deposit Analysis](SCREENSHOT_LINK_2)
+![Deposit Analysis](https://drive.google.com/uc?id=1RzAMnlmJve535Fvuckr4N6SM2XG26xFu)
 
 ---
 
@@ -67,7 +67,7 @@ High-level combined overview of all banking metrics.
 - Properties Owned: **4556**
 
 📷 **Screenshot:**  
-![Summary Dashboard](https://drive.google.com/file/d/1JeKlS5HAHMtHiolinQrDKqEybp-YrEnB/view?usp=drive_link)
+![Summary Dashboard](https://drive.google.com/uc?id=1JeKlS5HAHMtHiolinQrDKqEybp-YrEnB)
 
 ---
 
@@ -75,7 +75,7 @@ High-level combined overview of all banking metrics.
 If you have a 4th page, add its description here.
 
 📷 **Screenshot:**  
-![Extra Page](SCREENSHOT_LINK_4)
+![Extra Page](https://drive.google.com/uc?id=1zUOaGgc0H6bQdv7xoC36BPReNPrXRVRy)
 
 ---
 
